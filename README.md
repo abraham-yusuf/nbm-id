@@ -32,3 +32,5 @@ This is a multi-user blogging platform built with Node, React, Next.js, Express,
 - [MongoDB](https://www.mongodb.com/) - a schema-less NoSQL database.
 - [Mongooose](https://mongoosejs.com/) - the object document modeling (ODM) layer that sits on top of Node's MongoDB driver.
 - [DigitalOcean](https://www.digitalocean.com/) - as the deployment platform of choice.
+
+License MIT
